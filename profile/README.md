@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+# Disclaimer
+<p>The purpose of this is made only as a learning material how the game Lost Saga works and to see if it is good to develop / improve it. We have no intention of cheating OFFICIAL(KR,TW & CN, ORIGIN). <b>We use the 2014 version of the source which has been shared publicly for a long time ago and This is all free and prohibited for sale!!</b></p>
 
-**Here are some ideas to get you started:**
+# Lost Saga Open Source
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<!-- ![Lost Saga](https://wallpapercave.com/wp/wp1899234.jpg) -->
+<a href="#" target="blank"><img src="https://wallpapercave.com/wp/wp1899234.jpg" /></a>
