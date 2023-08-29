@@ -9,6 +9,7 @@
 
 <p>
     <a href="https://discord.gg/b5MeZxYEZf" target="blank"><img src="https://img.shields.io/badge/Discord-30302f?style=flat&logo=discord" /></a>
+     <a href="https://www.youtube.com/@lsfdyt" target="blank"><img src="https://img.shields.io/badge/Discord-30302f?style=flat&logo=youtube" /></a>
 </p>
 
 <!-- ![Lost Saga](https://wallpapercave.com/wp/wp1899234.jpg) -->
