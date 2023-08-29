@@ -5,5 +5,11 @@
 
 # Lost Saga Open Source
 
+
+
+<p>
+    <a href="https://discord.gg/b5MeZxYEZf" target="blank"><img src="https://img.shields.io/badge/Discord-30302f?style=flat&logo=discord" /></a>
+</p>
+
 <!-- ![Lost Saga](https://wallpapercave.com/wp/wp1899234.jpg) -->
 <a href="#" target="blank"><img src="https://wallpapercave.com/wp/wp1899234.jpg" /></a>
