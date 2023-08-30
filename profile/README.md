@@ -6,7 +6,7 @@
 ## Table Of Contents
 
 ### Server Part :
- 1. [DB Agent](https://github.com/LSFDC/ls-dbagentsvr)
+ 1. [DatabaseServer](https://github.com/LSFDC/ls-dbagentsvr)
  2. [MainServer](https://github.com/LSFDC/ls-mainsvr)
  3. [BillingServer](https://github.com/LSFDC/ls-billingsvr)
  4. [GameServer](https://github.com/LSFDC/ls-gamesvr)
