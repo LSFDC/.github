@@ -1,32 +1,27 @@
-
 # Lost Saga Open Source
-
 
 # Disclaimer
 <p>The purpose of this is made only as a learning material how the game Lost Saga works and to see if it is good to develop / improve it. We have no intention of cheating OFFICIAL(KR,TW & CN, ORIGIN). <b>We use the 2014 version of the source which has been shared publicly for a long time ago and This is all free and prohibited for sale!!</b></p>
 
-# Table Of Contents
+## Table Of Contents
 
 ### Server Part :
-
- 1. [DatabaseServer](https://github.com/LSFDC/ls-dbagentsvr)
+ 1. [DB Agent](https://github.com/LSFDC/ls-dbagentsvr)
  2. [MainServer](https://github.com/LSFDC/ls-mainsvr)
  3. [BillingServer](https://github.com/LSFDC/ls-billingsvr)
  4. [GameServer](https://github.com/LSFDC/ls-gamesvr)
 
 ### Client Part :
-
  1. [LSClient](https://github.com/LSFDC/ls-client)
  2. [io3Dengine](https://github.com/LSFDC/io3Dengine)
 
-### Tools & Utils
-<p>Visual Studio 2010           : <i><a href="https://my.visualstudio.com/Downloads?q=visual%20studio%202010%20Ultimate&wt.mc_id=o~msft~vscom~older-downloads" target="_blank">Download Here</a></i></p>
-<p>Visual Studio 2022/latest    : <i><a href="https://visualstudio.microsoft.com/vs/" target="_blank">Download Here</a></i></p>
-<p>SQL Server 2019 Express      : <i><a href="https://go.microsoft.com/fwlink/p/?linkid=866658" target="_blank">Download Here</a></i></p>
-<p>Navicat Premium              : <i>Soon</i></p>
-<p>DirectX SDK                  : <i><a href="https://www.microsoft.com/en-us/download/details.aspx?id=6812" target="_blank">Download Here</a></i></p>
-<p>Boost Libs (1.47 & 1.50)     : <i><a href="https://drive.google.com/file/d/1e9ScaC8e1-HDANzx_m-LNBMHj-1JNktA/view?usp=sharing" target="_blank">Download Here</a></i></p>
-<p>Repack Source                : <i><a href="https://drive.google.com/file/d/1bvnshSwPBVn-RmPhoyCD9ygq8m6zU4ph/view?usp=sharing" target="_blank">Download Here</a></i></p>
+### Additional tools
+ - [Visual Studio 2010 Ultimate Edition](https://my.visualstudio.com/Downloads?q=visual%20studio%202010%20Ultimate&wt.mc_id=o~msft~vscom~older-downloads)
+ - [Visual Studio 2022/latest](https://visualstudio.microsoft.com/vs/)
+ - [Docker](https://www.docker.com/)
+ - [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
+ - [Boost Libs (1.47 & 1.50)](https://drive.google.com/file/d/1e9ScaC8e1-HDANzx_m-LNBMHj-1JNktA/view?usp=sharing)
+ - Navicat Premium
 
 # Support
 <p>
