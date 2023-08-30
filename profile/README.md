@@ -19,6 +19,15 @@
  1. [LSClient](https://github.com/LSFDC/ls-client)
  2. [io3Dengine](https://github.com/LSFDC/io3Dengine)
 
+### Tools & Utils
+<p>Visual Studio 2010           : <i><a href="https://my.visualstudio.com/Downloads?q=visual%20studio%202010%20Ultimate&wt.mc_id=o~msft~vscom~older-downloads" target="_blank">Download Here</a></i></p>
+<p>Visual Studio 2022/latest    : <i><a href="https://visualstudio.microsoft.com/vs/" target="_blank">Download Here</a></i></p>
+<p>SQL Server 2019 Express      : <i><a href="https://go.microsoft.com/fwlink/p/?linkid=866658" target="_blank">Download Here</a></i></p>
+<p>Navicat Premium              : <i>Soon</i></p>
+<p>DirectX SDK                  : <i><a href="https://www.microsoft.com/en-us/download/details.aspx?id=6812" target="_blank">Download Here</a></i></p>
+<p>Boost Libs (1.47 & 1.50)     : <i><a href="https://drive.google.com/file/d/1e9ScaC8e1-HDANzx_m-LNBMHj-1JNktA/view?usp=sharing" target="_blank">Download Here</a></i></p>
+<p>Repack Source                : <i><a href="https://drive.google.com/file/d/1bvnshSwPBVn-RmPhoyCD9ygq8m6zU4ph/view?usp=sharing" target="_blank">Download Here</a></i></p>
+
 # Support
 <p>
     <a href="https://discord.gg/b5MeZxYEZf" target="blank"><img src="https://img.shields.io/badge/Discord-30302f?style=flat&logo=discord" /></a>
