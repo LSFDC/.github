@@ -21,7 +21,7 @@
  - [Docker](https://www.docker.com/)
  - [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
  - [Boost Libs (1.47 & 1.50)](https://drive.google.com/file/d/1e9ScaC8e1-HDANzx_m-LNBMHj-1JNktA/view?usp=sharing)
- - Navicat Premium
+ - [Navicat Premium](https://discord.com/channels/1087610713821958184/1102622792534470747/1102623066229592176)
  - [Base 2014 Source](https://drive.google.com/file/d/1kUgJKnl6CeoCsSUpEkD7qIMF7aix7dbR/view)
 
 # Support
