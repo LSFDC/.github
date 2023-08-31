@@ -27,6 +27,13 @@
  - [Base 2014 Source](https://drive.google.com/file/d/1kUgJKnl6CeoCsSUpEkD7qIMF7aix7dbR/view)
  - [merge-client-pack](https://drive.google.com/file/d/1XW8TpDMp8FkK3fcG0Zh5zr5izTbbWX-j/view)
 
+### Command line :
+ 1. BoostLibs :
+    ```
+    bootstrap.bat
+    b2 threading=multi --build-type=complete --stagedir=./stage/ --toolset=msvc-10.0 -j 12
+    ```
+
 # Support
 <p>
     <a href="https://discord.gg/b5MeZxYEZf" target="blank"><img src="https://img.shields.io/badge/Discord-30302f?style=flat&logo=discord" /></a>
