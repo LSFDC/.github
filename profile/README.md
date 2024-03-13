@@ -4,8 +4,6 @@
 # Disclaimer
 <p>The purpose of this is made only as a learning material how the game Lost Saga works and to see if it is good to develop / improve it. We have no intention of cheating OFFICIAL(KR,TW & CN, ORIGIN). <b>We use the 2014 version of the source which has been shared publicly for a long time ago and This is all free and prohibited for sale!!</b></p>
 
-## Table Of Contents
-
 ### Additional tools
  - [Visual Studio 2010 Ultimate Edition](https://my.visualstudio.com/Downloads?q=visual%20studio%202010%20Ultimate&wt.mc_id=o~msft~vscom~older-downloads)
  - [Visual Studio 2022/latest](https://visualstudio.microsoft.com/vs/)
