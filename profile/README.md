@@ -6,16 +6,6 @@
 
 ## Table Of Contents
 
-### Server Part :
- 1. [DatabaseServer](https://github.com/LSFDC/ls-dbagentsvr)
- 2. [MainServer](https://github.com/LSFDC/ls-mainsvr)
- 3. [BillingServer](https://github.com/LSFDC/ls-billingsvr)
- 4. [GameServer](https://github.com/LSFDC/ls-gamesvr)
-
-### Client Part :
- 1. [LSClient](https://github.com/LSFDC/ls-client)
- 2. [io3Dengine](https://github.com/LSFDC/io3Dengine)
-
 ### Additional tools
  - [Visual Studio 2010 Ultimate Edition](https://my.visualstudio.com/Downloads?q=visual%20studio%202010%20Ultimate&wt.mc_id=o~msft~vscom~older-downloads)
  - [Visual Studio 2022/latest](https://visualstudio.microsoft.com/vs/)
