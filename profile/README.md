@@ -4,7 +4,7 @@
 
 Welcome to the Lost Saga open-source revival — a learning-focused initiative built on the 2014 legacy source. Our mission is to explore how the game works, improve its systems, and grow a passionate development community around it.
 
-> [!WARNING] DISCLAIMER
+> [!NOTE] 
 > This project is for educational and development purposes only. We do **not** support or encourage cheating in any official versions (KR, TW, CN, or ORIGIN).  
 > This is a freely shared project, based on publicly available 2014 source code. **Commercial use or resale is strictly prohibited.**
 
